@@ -1,0 +1,179 @@
+﻿{
+	"packages": [
+		{
+			"name": "SIFU",
+			"version": 1,
+			"source": "SIFU.zip",
+			"integrity": "sha512-1E2Btjpt3njdFL04Klot81zd8HT1hDVLOKiMZYpn/xGHTW4jJnSsQ20vSP5PMQ81+EVm6brLQmYi9a2RJI6rdA==",
+			"software-minimum-version": "4.17"
+		},
+		{
+			"name": "Common",
+			"version": 9,
+			"source": "CommonProfiles.zip",
+			"integrity": "sha512-7/FpPhd+lh/RnuSCwHbL4xMDoXyJ9TVR3i0ChbcELihBXuvI4kuAFmn753UDMopdkbFQE7AbQorOqMgbXjFoAw==",
+			"software-minimum-version": "4.17"
+		},
+		{
+			"name": "FarCry6",
+			"version": 3,
+			"source": "FarCry6.zip",
+			"integrity": "sha512-fHPXGXupf1pQWqvX4IkL1yM8HutI1mXPZkf7QS7SqcVKUdUw9Lxs+ECOrV3tJ9219bSQEppRjaHbZZsVBYLztg==",
+			"software-minimum-version": "4.14"
+		},
+		{
+			"name": "Embr",
+			"version": 2,
+			"source": "Embr.zip",
+			"integrity": "sha512-J9cA/pnbKJfBdAAEn58whFh/neOMTTeZ1wZ1q0fSM9kCWiEU8aaaOx+XEdGjsT7cvxk7wE9kSM4nV7YKzLLx4A==",
+			"software-minimum-version": "4.14"
+		},
+		{
+			"name": "Gamedec",
+			"version": 1,
+			"source": "Gamedec.zip",
+			"integrity": "sha512-i+Mz45gkLW3xKN0UnAV1WlVxnnd+8FM/3DRdf+kTqcQtHGvvZdArKj+Hk3Wn0SiZp1t3WkQypfFg1FAHgHyDqQ==",
+			"software-minimum-version": "4.14"
+		},
+		{
+			"name": "ProjectWinter",
+			"version": 1,
+			"source": "ProjectWinter.zip",
+			"integrity": "sha512-mIUZrYRPm3yrgIUC0Qyl2By3D9NKelm/++k1Kf6lCkunwuk65UMqW625kPU3C7i5ejJEV0qpdPjwMgcyTxOgWQ==",
+			"software-minimum-version": "4.14"
+		},
+		{
+			"name": "SeveredSteel",
+			"version": 1,
+			"source": "SeveredSteel.zip",
+			"integrity": "sha512-4Bei4EzX6ZWD+oNDjOkkZbs6dkz9fLw9A9yMPF3hoLBJPLCRszftuft4+bRE/KZcHr/bVxx7qs6QjKdPZ0oebQ==",
+			"software-minimum-version": "4.13"
+		},
+		{
+			"name": "Starmancer",
+			"version": 1,
+			"source": "Starmancer.zip",
+			"integrity": "sha512-HD6cO8KTVXxJnrpU6+ioTjLkwuljc4l7YHPij+VyCy+vZLn5fklnN9VGtHEOH2it5ECogTz2STAHHDddind6jg==",
+			"software-minimum-version": "4.13"
+		},
+		{
+			"name": "TribesOfMidgard",
+			"version": 1,
+			"source": "TribesOfMidgard.zip",
+			"integrity": "sha512-BGTJnEswPA7lbR3o2IWZ38LKu5pTfXBhZMQVvQm+9wORebr7CSseUV86zP87vIqImUraWk7rjlt/JqF2lehQoA==",
+			"software-minimum-version": "4.13"
+		},
+		{
+			"name": "Chernobylite",
+			"version": 1,
+			"source": "Chernobylite.zip",
+			"integrity": "sha512-tFqb8qXZyJgNPiCHfhywFrK7qtOAEjIrZ46aZMxuuz1fKFjX5/iPWxnGUlnBQs9c7Fl1+jqk2wouP5170wh+tQ==",
+			"software-minimum-version": "4.13"
+		},
+		{
+			"name": "Vesper",
+			"version": 1,
+			"source": "Vesper.zip",
+			"integrity": "sha512-iR2njV6W4BX07+ee5IKJjR8cTyUdPGo9a3Nwnk3O5zRtKFLaSwUK0i2B/Wmu2SUkbG3ntpE16HjiB8rsUaf3/A==",
+			"software-minimum-version": "4.13"
+		},
+		{
+			"name": "RedSolstice2",
+			"version": 1,
+			"source": "RedSolstice2.zip",
+			"integrity": "sha512-dgP1hli5Xl1lZGbtWbmwiKCRGIMpaVmA8D7LzM8yP2ITl4du1tw3krkX7iP7F8/WPG2h+9MOhWfRqC5Itl1i7g==",
+			"software-minimum-version": "4.12"
+		},
+		{
+			"name": "SuperMagBot",
+			"version": 1,
+			"source": "SuperMagBot.zip",
+			"integrity": "sha512-ky0FoVi7Bbt5LlHrsPFG1j4VZ5/Mpunihp1W67M1F1vnkXx4trLm/pMNgLb6CME2/NIIQAkdrttfsXQlcOAWjQ==",
+			"software-minimum-version": "4.12"
+		},
+		{
+			"name": "BlairWitch",
+			"version": 1,
+			"source": "BlairWitch.zip",
+			"integrity": "sha512-3gt1uI0hO12cH71uxb+zLSAa66atXrN6uy3h81GlAHBDzoP7PPemaXiUjlTVX5DbkRfSYgjTZuf6es2Xph6Mfw==",
+			"software-minimum-version": "4.11"
+		},
+		{
+			"name": "Breakpoint",
+			"version": 1,
+			"source": "Breakpoint.zip",
+			"integrity": "sha512-+kyV+GkF5l7t6EWQ7rMsVlVSg5rX1kkvNGiXbIgDwLvpKFWIllZOX9FWVpkrv71gI+beemmhSYLf75DCDMlXVQ==",
+			"software-minimum-version": "4.11"
+		},
+		{
+			"name": "Far Cry New Dawn",
+			"version": 1,
+			"source": "Far Cry New Dawn.zip",
+			"integrity": "sha512-Cx9czr/gUc7fs+3bAUTzLWGW6Uyhc9sCEB7ZZTzUOFgLte+MlivETf8sTkEcukZ3RANIDtZ6Q9ERx4UrY4QKoA==",
+			"software-minimum-version": "4.11"
+		},
+		{
+			"name": "FarCry5",
+			"version": 1,
+			"source": "FarCry5.zip",
+			"integrity": "sha512-DUyBuJC1IK9pWmH0v5IKedlgL4zNWLR5veeMHpPStHOVZpOYt5olbe6tkOk8HQJ/eq1piiBu7ZClUUcRp1zdkQ==",
+			"software-minimum-version": "4.11"
+		},
+		{
+			"name": "Hyperscape",
+			"version": 1,
+			"source": "Hyperscape.zip",
+			"integrity": "sha512-9GyDVik9ZS4MA1gfWFkmn9EvvmeJ4ANu1oexzCBojSDS9SEgV8JhQYeBmp4SgPAX7cU1xEjXlVTb0/KErrwp6Q==",
+			"software-minimum-version": "4.11"
+		},
+		{
+			"name": "INMOST",
+			"version": 1,
+			"source": "INMOST.zip",
+			"integrity": "sha512-R/TJl317GEz3cjxV/P/Ua1l+PohjpcfEGOWdw/g0qVnNm56JTVCst+++nb8UluJPW1Pyt4BD2RzuKuTHhWHPWA==",
+			"software-minimum-version": "4.11"
+		},
+		{
+			"name": "MetroExodus",
+			"version": 1,
+			"source": "MetroExodus.zip",
+			"integrity": "sha512-TEP8LR8IugNCkbiG3/e7N9Uj++AZPxvOEXMuCTrpz9pDSv6zGWnkljehBfNE6v5XLJNWByC51AVN2Ke0Tytf0g==",
+			"software-minimum-version": "4.11"
+		},
+		{
+			"name": "TheDivision2",
+			"version": 1,
+			"source": "TheDivision2.zip",
+			"integrity": "sha512-+ZUppSY4/UmvYFNagQu6AoN38bofoJ1OMXAAJyGaVHfeLNRSgKyJZejXtDewk7BwSR9ZKUaY2/uvjBDLDft6NQ==",
+			"software-minimum-version": "4.11"
+		},
+		{
+			"name": "PHOGS!",
+			"version": 1,
+			"source": "PHOGS!.zip",
+			"integrity": "sha512-3pSDkmkgEnW0fceu77H1tYtJ123wAvNTjnZDh4GgJMeYQ97jvY13sIIy59Kqbx9h7lzswJ9ZuNo5qCtcaitK8g==",
+			"software-minimum-version": "4.11"
+		},
+		{
+			"name": "TheMedium",
+			"version": 1,
+			"source": "TheMedium.zip",
+			"integrity": "sha512-UrFdH+Gzg61k2uPRwYWgRxnjdmP5gC6Kc8nZa29bqLB6iZhZxQRsW4SjKiboUSMOYwtsg03JwJWMdq/nGeP+uQ==",
+			"software-minimum-version": "4.11"
+		},
+		{
+			"name": "Ghostrunner",
+			"version": 1,
+			"source": "Ghostrunner.zip",
+			"integrity": "sha512-Ln3YE05qGNhzPjo3/N8Nj21qw/7du5zTLjjKFTxzrzy6snBYefW03CBgI67EzjJ0GWtO0Y6xJeZONZ53Z73EQQ==",
+			"software-minimum-version": "4.11"
+		},
+		{
+			"name": "SubnauticaBZ",
+			"version": 1,
+			"source": "SubnauticaBZ.zip",
+			"integrity": "sha512-09HEtrjOWIbg0MkE0xdyRSldnaSHbb5OIVYvLX0DoT0wUm3ZHg4Zt/irmaDJI/retEWNR97g+AQ7wcPTK1vpgg==",
+			"software-minimum-version": "4.11"
+		}
+	]
+}

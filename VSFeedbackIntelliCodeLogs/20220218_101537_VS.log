@@ -1,0 +1,44 @@
+[2022-02-18 10:15:37.974 VSIX I] Version: 2.2.1462.13379
+[2022-02-18 10:15:37.977 VSIX V] Session: 27da80c6-398f-4458-8ad2-51d268de402f
+[2022-02-18 10:15:37.984 VSIX V] Found git.exe at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\cmd\git.exe
+[2022-02-18 10:15:37.999 VsSolutionEventHandler V] Deriving workspace identifier from solution GUID.
+[2022-02-18 10:15:38.001 VSIX V] Attempting to search for VS install path with assembly path of: 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\PublicAssemblies'
+[2022-02-18 10:15:38.001 VSIX V] Using VS installation path 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise'
+[2022-02-18 10:15:38.008 VSIX V] Setting 'OutputWindowLogging' effective state is False, configured Default
+[2022-02-18 10:15:38.008 VSIX V] Setting 'RepositoryAttachedModels' effective state is True, configured Default
+[2022-02-18 10:15:38.008 VSIX V] Setting 'CSharpBaseModels' effective state is True, configured Default
+[2022-02-18 10:15:38.008 VSIX V] Setting 'CSharpCustomModels' effective state is True, configured Default
+[2022-02-18 10:15:38.008 VSIX V] Setting 'CSharpArgumentCompletion' effective state is True, configured Default
+[2022-02-18 10:15:38.008 VSIX V] Setting 'VisualBasicBaseModel' effective state is True, configured Default
+[2022-02-18 10:15:38.008 VSIX V] Setting 'VisualBasicArgumentCompletion' effective state is True, configured Default
+[2022-02-18 10:15:38.008 VSIX V] Setting 'CPlusPlusBaseModel' effective state is True, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'CPlusPlusCustomModels' effective state is True, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'EditorConfig' effective state is True, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'TypeScriptBaseModel' effective state is True, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'XamlBaseModel' effective state is True, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'AndroidXmlBaseModel' effective state is True, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'CSharpRefactorings' effective state is True, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'RefactoringsDiscoveryLightbulb' effective state is True, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'SuggestionsLoggingEnabled' effective state is False, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'RefactoringsPersistence' effective state is False, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'UseManualActivation' effective state is False, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'RefactoringsShowToolwindowGrouping' effective state is False, configured Default
+[2022-02-18 10:15:38.009 VSIX V] Setting 'RefactoringsCompletions' effective state is True, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'IntentDetection' effective state is False, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'RefactoringsKeyBindingsEnabled' effective state is False, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'RefactoringsApplyAllLsp' effective state is True, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'TeamModelAcquiredNotification' effective state is True, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'SQLiteModelService' effective state is False, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'AutomaticModelTraining' effective state is True, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'AutomaticModelTrainingInfobar' effective state is True, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'AutoTrainSuppressKickoffCSharp' effective state is False, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'AutoTrainSuppressKickoffCPlusPlus' effective state is True, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'CreateTeamCompletionModels' effective state is True, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'CommitGrayTextOnRightArrowKey' effective state is False, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'WholeLineCompletions' effective state is False, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'WholeLineCompletionsGrayText' effective state is True, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'WholeLineCompletionsRequirePrediction' effective state is True, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'WholeLineCompletionDelayIntelliSenseUpdates' effective state is True, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'WholeLineCompletionsSemanticModification' effective state is True, configured Default
+[2022-02-18 10:15:38.010 VSIX V] Setting 'FindAndReplaceByExample' effective state is False, configured Default
+[2022-02-18 10:15:38.069 ToastNotificationService V] Creating toast notification with title 'IntelliCode Custom Completions'

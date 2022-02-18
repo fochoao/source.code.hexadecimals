@@ -1,0 +1,163 @@
+[2022-02-17 15:43:50.626] [app] [info] 
+
+
+[2022/02/17 15:43:50.626]  log: "C:/Users/FernandoOchoa/AppData/Local/Temp/Seer/seer.log"
+[2022/02/17 15:43:50.688]  init CMain
+[2022/02/17 15:43:51.970]  0x3072a constructing main wnd CMainWnd(0x40a80d0, name="CMainWnd")
+[2022/02/17 15:43:52.046]  0x3072a constructing unknown wnd CUnknownWnd(0xa1fd788)
+[2022/02/17 15:43:52.293]  init scale factor
+[2022/02/17 15:43:52.293]  updateScaleFactor start
+[2022/02/17 15:43:52.400]  updateScaleFactor done
+[2022/02/17 15:43:52.400]  "\\\\.\\DISPLAY1" screen: QSizeF(1920, 1080) monitor: QSizeF(344, 194) scale: 1
+[2022/02/17 15:43:52.400]  init scale factor done 106
+[2022/02/17 15:43:52.404]  arguments ("C:\\Program Files\\WindowsApps\\CNABA5E861-AC2A-4523-B3C1.Seer-AWindowsQuickLookTo_2.8.3.0_neutral__p7t0z30wh4868\\Seer\\Seer.exe")
+[2022/02/17 15:43:52.404]  Application argument: [path] argument not found.  [END]
+[2022/02/17 15:43:52.404]  init command done
+[2022/02/17 15:43:52.404]  init CMain done
+[2022/02/17 15:43:52.405]  "C:/Users/FernandoOchoa/AppData/Local/Corey/Seer/uwp_settings.ini" QLocale(Spanish, Latin, Mexico) "Segoe UI" "C:/Users/FernandoOchoa"
+[2022/02/17 15:43:52.413]  5.15.2 2.8.3 "2.8.3" 1916 "Windows 10 Version 2009" "UWP" no_admin [10:50:47, Jan 11 2022]
+[2022/02/17 15:43:52.413]  plugins checked
+[2022/02/17 15:43:52.413]  checking license
+[2022/02/17 15:43:52.413]  license: UWP version, pass
+[2022/02/17 19:23:38.540]  
+
+
+[2022/02/17 19:23:38.540]  log: "C:/Users/FernandoOchoa/AppData/Local/Temp/Seer/seer.log"
+[2022/02/17 19:23:38.650]  init CMain
+[2022/02/17 19:23:44.740]  0x11050e constructing main wnd CMainWnd(0x52a8210, name="CMainWnd")
+[2022/02/17 19:23:44.789]  0x11050e constructing unknown wnd CUnknownWnd(0xd84fc88)
+[2022/02/17 19:23:44.955]  init scale factor
+[2022/02/17 19:23:44.955]  updateScaleFactor start
+[2022/02/17 19:23:45.274]  updateScaleFactor done
+[2022/02/17 19:23:45.274]  "\\\\.\\DISPLAY1" screen: QSizeF(1920, 1080) monitor: QSizeF(344, 194) scale: 1
+[2022/02/17 19:23:45.274]  init scale factor done 319
+[2022/02/17 19:23:45.277]  arguments ("C:\\Program Files\\WindowsApps\\CNABA5E861-AC2A-4523-B3C1.Seer-AWindowsQuickLookTo_2.8.3.0_neutral__p7t0z30wh4868\\Seer\\Seer.exe")
+[2022/02/17 19:23:45.277]  Application argument: [path] argument not found.  [END]
+[2022/02/17 19:23:45.277]  init command done
+[2022/02/17 19:23:45.277]  init CMain done
+[2022/02/17 19:23:45.278]  "C:/Users/FernandoOchoa/AppData/Local/Corey/Seer/uwp_settings.ini" QLocale(Spanish, Latin, Mexico) "Segoe UI" "C:/Users/FernandoOchoa"
+[2022/02/17 19:23:45.323]  5.15.2 2.8.3 "2.8.3" 1916 "Windows 10 Version 2009" "UWP" no_admin [10:50:47, Jan 11 2022]
+[2022/02/17 19:23:45.323]  plugins checked
+[2022/02/17 19:23:45.323]  checking license
+[2022/02/17 19:23:45.323]  license: UWP version, pass
+[2022-02-17 22:43:37.030] [app] [info] 
+
+
+[2022/02/17 22:43:37.030]  log: "C:/Users/FernandoOchoa/AppData/Local/Temp/Seer/seer.log"
+[2022/02/17 22:43:37.184]  init CMain
+[2022/02/17 22:43:42.597]  0xf054a constructing main wnd CMainWnd(0x4ea5210, name="CMainWnd")
+[2022/02/17 22:43:42.759]  0xf054a constructing unknown wnd CUnknownWnd(0xcc4d608)
+[2022/02/17 22:43:42.879]  init scale factor
+[2022/02/17 22:43:42.879]  updateScaleFactor start
+[2022/02/17 22:43:43.486]  updateScaleFactor done
+[2022/02/17 22:43:43.486]  "\\\\.\\DISPLAY1" screen: QSizeF(1920, 1080) monitor: QSizeF(344, 194) scale: 1
+[2022/02/17 22:43:43.486]  init scale factor done 607
+[2022/02/17 22:43:43.488]  arguments ("C:\\Program Files\\WindowsApps\\CNABA5E861-AC2A-4523-B3C1.Seer-AWindowsQuickLookTo_2.8.3.0_neutral__p7t0z30wh4868\\Seer\\Seer.exe")
+[2022/02/17 22:43:43.488]  Application argument: [path] argument not found.  [END]
+[2022/02/17 22:43:43.488]  init command done
+[2022/02/17 22:43:43.488]  init CMain done
+[2022/02/17 22:43:43.489]  "C:/Users/FernandoOchoa/AppData/Local/Corey/Seer/uwp_settings.ini" QLocale(Spanish, Latin, Mexico) "Segoe UI" "C:/Users/FernandoOchoa"
+[2022/02/17 22:43:43.505]  5.15.2 2.8.3 "2.8.3" 1916 "Windows 10 Version 2009" "UWP" no_admin [10:50:47, Jan 11 2022]
+[2022/02/17 22:43:43.505]  plugins checked
+[2022/02/17 22:43:43.505]  checking license
+[2022/02/17 22:43:43.505]  license: UWP version, pass
+[2022/02/17 23:30:27.247]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:30:27.340]  updateScaleFactor start
+[2022/02/17 23:30:27.677]  updateScaleFactor done
+[2022/02/17 23:30:27.677]  "\\\\.\\DISPLAY1" screen: QSizeF(640, 480) monitor: QSizeF(258, 194) scale: 1
+[2022/02/17 23:30:27.677]  onOSDPIChanged enter
+[2022/02/17 23:30:27.677]  updateScaleFactor data QMap((QScreen(0x83de50, name="\\\\.\\DISPLAY1"), 1))
+[2022/02/17 23:30:27.678]  onOSDPIChanged over
+[2022/02/17 23:31:38.474]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:31:38.568]  updateScaleFactor start
+[2022/02/17 23:31:38.991]  updateScaleFactor done
+[2022/02/17 23:31:38.991]  "\\\\.\\DISPLAY1" screen: QSizeF(1920, 1080) monitor: QSizeF(344, 194) scale: 1
+[2022/02/17 23:31:38.991]  onOSDPIChanged enter
+[2022/02/17 23:31:38.991]  updateScaleFactor data QMap((QScreen(0x83de50, name="\\\\.\\DISPLAY1"), 1))
+[2022/02/17 23:31:38.992]  onOSDPIChanged over
+[2022/02/17 23:31:39.451]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:31:39.555]  updateScaleFactor start
+[2022/02/17 23:31:39.970]  updateScaleFactor done
+[2022/02/17 23:31:39.970]  "\\\\.\\DISPLAY1" screen: QSizeF(640, 480) monitor: QSizeF(258, 194) scale: 1
+[2022/02/17 23:31:39.970]  onOSDPIChanged enter
+[2022/02/17 23:31:39.970]  updateScaleFactor data QMap((QScreen(0x83de50, name="\\\\.\\DISPLAY1"), 1))
+[2022/02/17 23:31:39.970]  onOSDPIChanged over
+[2022/02/17 23:31:40.215]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:31:40.244]  updateScaleFactor start
+[2022/02/17 23:31:40.679]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:31:40.771]  updateScaleFactor running
+[2022/02/17 23:31:40.812]  updateScaleFactor done
+[2022/02/17 23:31:40.812]  "\\\\.\\DISPLAY1" screen: QSizeF(800, 600) monitor: QSizeF(258, 194) scale: 1
+[2022/02/17 23:31:40.812]  onOSDPIChanged enter
+[2022/02/17 23:31:40.812]  updateScaleFactor data QMap((QScreen(0x83de50, name="\\\\.\\DISPLAY1"), 1))
+[2022/02/17 23:31:40.812]  onOSDPIChanged over
+[2022/02/17 23:38:01.914]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:38:02.058]  updateScaleFactor start
+[2022/02/17 23:38:02.404]  updateScaleFactor done
+[2022/02/17 23:38:02.404]  "\\\\.\\DISPLAY1" screen: QSizeF(1920, 1080) monitor: QSizeF(344, 194) scale: 1
+[2022/02/17 23:38:02.404]  onOSDPIChanged enter
+[2022/02/17 23:38:02.404]  updateScaleFactor data QMap((QScreen(0x83de50, name="\\\\.\\DISPLAY1"), 1))
+[2022/02/17 23:38:02.404]  onOSDPIChanged over
+[2022/02/17 23:38:10.471]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:38:10.560]  updateScaleFactor start
+[2022/02/17 23:38:10.793]  updateScaleFactor done
+[2022/02/17 23:38:10.793]  "\\\\.\\DISPLAY1" screen: QSizeF(800, 600) monitor: QSizeF(258, 194) scale: 1
+[2022/02/17 23:38:10.793]  onOSDPIChanged enter
+[2022/02/17 23:38:10.793]  updateScaleFactor data QMap((QScreen(0x83de50, name="\\\\.\\DISPLAY1"), 1))
+[2022/02/17 23:38:10.793]  onOSDPIChanged over
+[2022/02/17 23:38:11.331]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:38:11.493]  updateScaleFactor start
+[2022/02/17 23:38:11.743]  updateScaleFactor done
+[2022/02/17 23:38:11.743]  "\\\\.\\DISPLAY1" screen: QSizeF(1920, 1080) monitor: QSizeF(344, 194) scale: 1
+[2022/02/17 23:38:11.743]  onOSDPIChanged enter
+[2022/02/17 23:38:11.743]  updateScaleFactor data QMap((QScreen(0x83de50, name="\\\\.\\DISPLAY1"), 1))
+[2022/02/17 23:38:11.743]  onOSDPIChanged over
+[2022/02/17 23:38:12.169]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:38:12.251]  updateScaleFactor start
+[2022/02/17 23:38:12.488]  updateScaleFactor done
+[2022/02/17 23:38:12.488]  "\\\\.\\DISPLAY1" screen: QSizeF(800, 600) monitor: QSizeF(258, 194) scale: 1
+[2022/02/17 23:38:12.488]  onOSDPIChanged enter
+[2022/02/17 23:38:12.488]  updateScaleFactor data QMap((QScreen(0x83de50, name="\\\\.\\DISPLAY1"), 1))
+[2022/02/17 23:38:12.488]  onOSDPIChanged over
+[2022/02/17 23:44:38.125]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:44:38.200]  updateScaleFactor start
+[2022/02/17 23:44:38.389]  updateScaleFactor done
+[2022/02/17 23:44:38.389]  "\\\\.\\DISPLAY1" screen: QSizeF(1920, 1080) monitor: QSizeF(344, 194) scale: 1
+[2022/02/17 23:44:38.389]  onOSDPIChanged enter
+[2022/02/17 23:44:38.389]  updateScaleFactor data QMap((QScreen(0x83de50, name="\\\\.\\DISPLAY1"), 1))
+[2022/02/17 23:44:38.389]  onOSDPIChanged over
+[2022/02/17 23:44:39.348]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:44:39.421]  updateScaleFactor start
+[2022/02/17 23:44:39.563]  updateScaleFactor done
+[2022/02/17 23:44:39.563]  "\\\\.\\DISPLAY1" screen: QSizeF(640, 480) monitor: QSizeF(258, 194) scale: 1
+[2022/02/17 23:44:39.563]  onOSDPIChanged enter
+[2022/02/17 23:44:39.563]  updateScaleFactor data QMap((QScreen(0x83de50, name="\\\\.\\DISPLAY1"), 1))
+[2022/02/17 23:44:39.563]  onOSDPIChanged over
+[2022/02/17 23:44:44.817]  +++++++++++++++++++++++ WM_DISPLAYCHANGE
+[2022/02/17 23:44:45.063]  updateScaleFactor start
+[2022/02/17 23:44:45.279]  updateScaleFactor done
+[2022/02/17 23:44:45.279]  "\\\\.\\DISPLAY1" screen: QSizeF(1920, 1080) monitor: QSizeF(344, 194) scale: 1
+[2022/02/17 23:44:45.279]  onOSDPIChanged enter
+[2022/02/17 23:44:45.279]  updateScaleFactor data QMap((QScreen(0x83de50, name="\\\\.\\DISPLAY1"), 1))
+[2022/02/17 23:44:45.279]  onOSDPIChanged over
+[2022/02/18 02:24:59.110]  
+
+
+[2022/02/18 02:24:59.110]  log: "C:/Users/FernandoOchoa/AppData/Local/Temp/Seer/seer.log"
+[2022/02/18 02:24:59.187]  init CMain
+[2022/02/18 02:25:06.104]  0x2080e constructing main wnd CMainWnd(0x58a70d0, name="CMainWnd")
+[2022/02/18 02:25:06.160]  0x2080e constructing unknown wnd CUnknownWnd(0xd64c4c8)
+[2022/02/18 02:25:06.324]  init scale factor
+[2022/02/18 02:25:06.324]  updateScaleFactor start
+[2022/02/18 02:25:06.742]  updateScaleFactor done
+[2022/02/18 02:25:06.743]  "\\\\.\\DISPLAY1" screen: QSizeF(1920, 1080) monitor: QSizeF(344, 194) scale: 1
+[2022/02/18 02:25:06.743]  init scale factor done 418
+[2022/02/18 02:25:06.745]  arguments ("C:\\Program Files\\WindowsApps\\CNABA5E861-AC2A-4523-B3C1.Seer-AWindowsQuickLookTo_2.8.3.0_neutral__p7t0z30wh4868\\Seer\\Seer.exe")
+[2022/02/18 02:25:06.745]  Application argument: [path] argument not found.  [END]
+[2022/02/18 02:25:06.745]  init command done
+[2022/02/18 02:25:06.745]  init CMain done
+[2022/02/18 02:25:06.746]  "C:/Users/FernandoOchoa/AppData/Local/Corey/Seer/uwp_settings.ini" QLocale(Spanish, Latin, Mexico) "Segoe UI" "C:/Users/FernandoOchoa"
+[2022/02/18 02:25:06.775]  5.15.2 2.8.3 "2.8.3" 1916 "Windows 10 Version 2009" "UWP" no_admin [10:50:47, Jan 11 2022]
+[2022/02/18 02:25:06.775]  plugins checked
+[2022/02/18 02:25:06.775]  checking license
+[2022/02/18 02:25:06.775]  license: UWP version, pass
